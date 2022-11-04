@@ -1,6 +1,6 @@
 from ctypes import POINTER
 from mimetypes import init
-import pyautogui as pag
+# import pyautogui as pag
 import random
 import pyperclip
 import selenium
